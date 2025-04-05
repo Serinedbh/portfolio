@@ -1,4 +1,4 @@
-/* Réinitialisation des styles par défaut */
+
 * {
     margin: 0;
     padding: 0;
@@ -79,7 +79,7 @@ header p {
 }
 
 .projet:hover {
-    transform: translateY(-10px); /* Légère élévation au survol */
+    transform: translateY(-10px);
 }
 
 .projet img {
